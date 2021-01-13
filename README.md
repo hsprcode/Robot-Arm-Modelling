@@ -1,4 +1,4 @@
-# Robot-Arm-Modelling
+# Robot-Arm-Modelling-From-Scratch
 
 ## Dynamic equations of motion for the robot arm
 The dynamic_equations_of_motion.m code gives the equations in symbolic varible which gets substituted using the default DH parameters defined (can be changed).
